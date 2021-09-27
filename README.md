@@ -13,7 +13,7 @@
 
 <h3> My interest ❤️ </h3>
 <hr>
-<p><em>AI, CTF, Software Development
+<p><em>Artificial Intelligence, Software Development
 Cloud, Algorithms, Container and Microservice </em></p>
 
 <hr>
