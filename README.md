@@ -1,17 +1,37 @@
-### Hi, I'm Shohrab 👋
+# Hi, I'm [Your Name]
 
-Senior DevOps & Cloud Engineer based in Adelaide, Australia.
+**Lead DevOps Engineer** · MS Cybersecurity @ UniSC · 6+ years Kubernetes, Terraform, Azure/AWS
 
-🔧 **Currently:** Leading DevOps at Askturing.ai — AKS migrations, Terraform IaC, hybrid AWS+Azure platforms.
+Building production-grade platform engineering, GitOps, and cloud security projects in the open.
 
-🎓 **Studying:** MSc in Cyber Security & Forensics at University of the Sunshine Coast.
+## Portfolio
 
-🛠️ **Stack:** AWS · Azure · GCP · Kubernetes · Terraform · Jenkins · GitHub Actions · Argo CD · ELK · Grafana · Python · Go
+| Project | Description |
+|---------|-------------|
+| [gitops-platform](https://github.com/shohrabniaz/gitops-platform) | ArgoCD, canary deployments, multi-environment GitOps |
+| [azure-landing-zone-terraform](https://github.com/shohrabniaz/azure-landing-zone-terraform) | Enterprise Azure landing zone with AKS and policy-as-code |
+| [devsecops-pipeline](https://github.com/shohrabniaz/devsecops-pipeline) | Trivy, Checkov, Semgrep, SBOM, signed containers |
+| [sentinel-soc-lab](https://github.com/shohrabniaz/sentinel-soc-lab) | Azure Sentinel SOC, detection rules, MITRE ATT&CK |
+| [ai-incident-copilot](https://github.com/shohrabniaz/ai-incident-copilot) | AI-powered Kubernetes incident RCA |
+| [finops-guardian](https://github.com/shohrabniaz/finops-guardian) | Cloud cost leak detection and optimization |
 
-📜 **Certified:** CKA · AZ-104 · AWS Cloud Practitioner
+## Certifications
 
-🔗 **Find me:** [LinkedIn](https://linkedin.com/in/shohrabniaz) · [Portfolio](https://shohrabniaz.github.io)
+- Fortinet NSE 1–3
+- Microsoft AZ-900 / SC-900 (in progress)
+- GitHub Foundations GH-900 (in progress)
+- Cisco Introduction to Cybersecurity
+
+## Skills
+
+`Terraform` · `Kubernetes` · `Azure` · `AWS` · `GitOps` · `DevSecOps` · `Platform Engineering` · `SRE`
+
+## Contact
+
+- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- Email: your.email@example.com
+- Location: Adelaide, Australia
 
 ---
 
-📌 Pinned repositories below showcase production-grade DevOps patterns: Terraform modules, Kubernetes deployments, and CI/CD pipelines.
+_Open to Platform Engineer, Senior DevOps, DevSecOps, and Cloud Security roles in Australia._
