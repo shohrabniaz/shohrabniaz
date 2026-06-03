@@ -1,6 +1,6 @@
 # Hi, I'm Shohrab Niaz
 
-**Lead DevOps Engineer** · MS Cybersecurity @ UniSC · 6+ years Kubernetes, Terraform, Azure/AWS
+**Lead DevOps Engineer** · MS Cybersecurity · 6+ years Kubernetes, Terraform, Azure/AWS
 
 Building production-grade platform engineering, GitOps, and cloud security projects in the open.
 
@@ -42,7 +42,7 @@ Pin these six on your profile: **Profile → Customize pins** (GitHub UI).
 
 ## Contact
 
-- Email: m_n135@student.usc.edu.au
+- Email: shohrab.niaz@gmail.com
 - GitHub: [@shohrabniaz](https://github.com/shohrabniaz)
 - Location: Adelaide, Australia
 
