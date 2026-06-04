@@ -2,31 +2,33 @@
 
 **Lead DevOps Engineer** · MS Cybersecurity · 6+ years Kubernetes, Terraform, Azure/AWS
 
-Building production-grade platform engineering, GitOps, and cloud security projects in the open.
+Platform engineering, GitOps, and DevSecOps — with CI-backed repos and hands-on Kubernetes labs (kind, Argo CD, Prometheus/Grafana).
 
 [![devsecops-pipeline](https://github.com/shohrabniaz/devsecops-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/shohrabniaz/devsecops-pipeline/actions)
 [![terraform-modules](https://github.com/shohrabniaz/terraform-modules/actions/workflows/terraform.yml/badge.svg)](https://github.com/shohrabniaz/terraform-modules/actions)
+[![gitops-platform](https://github.com/shohrabniaz/gitops-platform/actions/workflows/validate.yml/badge.svg)](https://github.com/shohrabniaz/gitops-platform/actions)
 
-## Featured repositories
-
-Pin these six on your profile: **Profile → Customize pins** (GitHub UI).
+## Featured work
 
 | Project | Focus |
 |---------|--------|
 | [**devsecops-pipeline**](https://github.com/shohrabniaz/devsecops-pipeline) | Semgrep, Checkov, Trivy, SBOM, compliance report |
-| [**terraform-modules**](https://github.com/shohrabniaz/terraform-modules) | Reusable Azure hub-spoke + AKS modules |
-| [**gitops-platform**](https://github.com/shohrabniaz/gitops-platform) | Argo CD app-of-apps, dev overlays |
-| [**azure-landing-zone-terraform**](https://github.com/shohrabniaz/azure-landing-zone-terraform) | Enterprise landing zone (Azure — when enabled) |
-| [**k8s-observability-stack**](https://github.com/shohrabniaz/k8s-observability-stack) | Prometheus, Grafana, Loki on Kubernetes |
-| [**sentinel-soc-lab**](https://github.com/shohrabniaz/sentinel-soc-lab) | SOC detections, MITRE ATT&CK mapping |
+| [**multi-cloud-terraform-stacks**](https://github.com/shohrabniaz/multi-cloud-terraform-stacks) | AWS / Azure / GCP Terraform reference stacks |
+| [**aks-terraform-module**](https://github.com/shohrabniaz/aks-terraform-module) | Production-oriented AKS Terraform module |
+| [**gitops-platform**](https://github.com/shohrabniaz/gitops-platform) | Argo CD app-of-apps, automated sync |
+| [**cicd-pipeline-templates**](https://github.com/shohrabniaz/cicd-pipeline-templates) | Reusable GitHub Actions + Jenkins DevSecOps |
+| [**terraform-modules**](https://github.com/shohrabniaz/terraform-modules) | Hub-spoke + AKS modules, remote state docs |
 
-## More projects
+## More portfolio repos
 
 | Project | Description |
 |---------|-------------|
-| [ai-incident-copilot](https://github.com/shohrabniaz/ai-incident-copilot) | AI-powered Kubernetes incident RCA |
+| [k8s-observability-stack](https://github.com/shohrabniaz/k8s-observability-stack) | Prometheus, Grafana on Kubernetes |
+| [azure-landing-zone-terraform](https://github.com/shohrabniaz/azure-landing-zone-terraform) | Enterprise Azure landing zone (Terraform) |
+| [sentinel-soc-lab](https://github.com/shohrabniaz/sentinel-soc-lab) | Azure Sentinel SOC lab |
+| [ai-incident-copilot](https://github.com/shohrabniaz/ai-incident-copilot) | AI-assisted Kubernetes incident RCA |
 | [finops-guardian](https://github.com/shohrabniaz/finops-guardian) | Cloud cost leak detection |
-| [platform-portal](https://github.com/shohrabniaz/platform-portal) | Backstage developer portal |
+| [platform-portal](https://github.com/shohrabniaz/platform-portal) | Backstage developer portal catalog |
 | [cloud-security-scanner](https://github.com/shohrabniaz/cloud-security-scanner) | Multi-cloud posture checks |
 
 ## Certifications
@@ -38,11 +40,12 @@ Pin these six on your profile: **Profile → Customize pins** (GitHub UI).
 
 ## Skills
 
-`Terraform` · `Kubernetes` · `GitOps` · `DevSecOps` · `Platform Engineering` · `SRE` · `Azure` · `AWS`
+`Terraform` · `Kubernetes` · `GitOps` · `DevSecOps` · `Platform Engineering` · `SRE` · `Azure` · `AWS` · `GCP`
 
 ## Contact
 
 - Email: shohrab.niaz@gmail.com
+- LinkedIn: [linkedin.com/in/shohrabniaz](https://www.linkedin.com/in/shohrabniaz) *(update to your profile URL)*
 - GitHub: [@shohrabniaz](https://github.com/shohrabniaz)
 - Location: Adelaide, Australia
 
