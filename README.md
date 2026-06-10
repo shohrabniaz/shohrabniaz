@@ -1,4 +1,4 @@
-# Hi, I'm Shohrab Niaz
+# Hi, I'm Shohrab Hossen Niaz
 
 **Lead DevOps Engineer** · MS Cybersecurity · 6+ years Kubernetes, Terraform, Azure/AWS
 
@@ -45,7 +45,7 @@ Platform engineering, GitOps, and DevSecOps — with CI-backed repos and hands-o
 ## Contact
 
 - Email: shohrab.niaz@gmail.com
-- LinkedIn: [linkedin.com/in/shohrabniaz](https://www.linkedin.com/in/shohrabniaz) *(update to your profile URL)*
+- LinkedIn: [linkedin.com/in/shohrabniaz](https://www.linkedin.com/in/shohrabniaz)
 - GitHub: [@shohrabniaz](https://github.com/shohrabniaz)
 - Location: Adelaide, Australia
 
