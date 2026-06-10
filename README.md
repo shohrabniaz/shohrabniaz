@@ -33,6 +33,7 @@ Platform engineering, GitOps, and DevSecOps — with CI-backed repos and hands-o
 
 ## Certifications
 
+- **CKA** — Certified Kubernetes Administrator
 - Fortinet NSE 1–3
 - Microsoft AZ-900 / SC-900 (in progress)
 - GitHub Foundations GH-900 (in progress)
